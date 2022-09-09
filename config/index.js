@@ -149,7 +149,7 @@ APP_SECRET: "eead59da891c8f5b37e125da05c68a83",
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "动画，漫画，游戏，小说，原创，网络，其他"
+  LITERARY_PREFERENCE: ""
 
 
 }
