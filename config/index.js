@@ -47,7 +47,7 @@ APP_SECRET: "eead59da891c8f5b37e125da05c68a83",
       // 想要发送的人的名字
       name: "许佳",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o8o9v6XlU-r1f3cRxOVKfBbMKHDw	",
+      id: "o8o9v6XlU-r1f3cRxOVKfBbMKHDw",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "jV7cFsXJVezyYcbuIWkIKZdR81bH2jf1spPFzLGcRFk",
       // 所在省份
